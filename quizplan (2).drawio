@@ -1,0 +1,166 @@
+<mxfile host="app.diagrams.net" modified="2023-08-27T22:33:15.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0wCQJElazoHaAssYosa8" version="21.6.7" type="device">
+  <diagram name="Page-1" id="_5hRPUh7dTPgiblnxhnI">
+    <mxGraphModel dx="5630" dy="4727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FopRAKARb_g4g3PPFZj7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="FopRAKARb_g4g3PPFZj7-1" target="FopRAKARb_g4g3PPFZj7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=default;strokeColor=#000000;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="-830" width="520" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-2" value="&lt;h1&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 33px;&quot;&gt;welcome to my quiz&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-727.5" y="-740" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-4" value="&lt;font face=&quot;Verdana&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;start&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1A1A1A;strokeColor=#4D4D4D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="-645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-5" value="please read the rules then click start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-575" y="-550" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-6" value="&lt;font color=&quot;#ffffff&quot;&gt;rules&lt;br&gt;the quiz has 10 questions&lt;br&gt;click on the answer you think is correct to progress to the next question&lt;br&gt;you will receive a ranking dependent of how many questions you get right&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="-480" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="FopRAKARb_g4g3PPFZj7-7" target="FopRAKARb_g4g3PPFZj7-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-7" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=default;strokeColor=#000000;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-830" width="520" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-9" value="&lt;h1&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 33px;&quot;&gt;(question one)&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-47.5" y="-740" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-10" value="(answer 1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-11" value="(answer 2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-12" value="(answer 3)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-13" value="(answer 4)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="FopRAKARb_g4g3PPFZj7-38" target="FopRAKARb_g4g3PPFZj7-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-38" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=default;strokeColor=#000000;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-830" width="520" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-39" value="&lt;h1&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 33px;&quot;&gt;(question two)&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="-740" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-40" value="(answer 1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-41" value="(answer 2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-42" value="(answer 3)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-43" value="(answer 4)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="FopRAKARb_g4g3PPFZj7-44" target="FopRAKARb_g4g3PPFZj7-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-44" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=default;strokeColor=#000000;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-830" width="520" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-45" value="&lt;h1&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 33px;&quot;&gt;(question three)&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1232.5" y="-740" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-46" value="(answer 1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-47" value="(answer 2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-48" value="(answer 3)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-49" value="(answer 4)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="FopRAKARb_g4g3PPFZj7-50" target="FopRAKARb_g4g3PPFZj7-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-50" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=default;strokeColor=#000000;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="-830" width="520" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-51" value="&lt;h1&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 33px;&quot;&gt;(question four)&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1842.5" y="-740" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-52" value="(answer 1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="-675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-53" value="(answer 2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="-645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-54" value="(answer 3)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="-615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-55" value="(answer 4)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="-585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="FopRAKARb_g4g3PPFZj7-56" target="FopRAKARb_g4g3PPFZj7-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="FopRAKARb_g4g3PPFZj7-56" target="FopRAKARb_g4g3PPFZj7-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="FopRAKARb_g4g3PPFZj7-56" target="FopRAKARb_g4g3PPFZj7-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-56" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=default;strokeColor=#000000;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="-830" width="520" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-57" value="&lt;h1&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 33px;&quot;&gt;(question five)&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2482.5" y="-740" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-58" value="(answer 1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="-675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-59" value="(answer 2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="-645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-60" value="(answer 3)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="-615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-61" value="(answer 4)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="-585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-66" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=default;strokeColor=#000000;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="3110" y="-1340" width="520" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-67" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=default;strokeColor=#000000;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="3110" y="-830" width="520" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-70" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=default;strokeColor=#000000;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="3110" y="-290" width="520" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-76" value="&lt;h1&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 33px;&quot;&gt;if score 0-1&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="-340" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-77" value="&lt;h1&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 33px;&quot;&gt;if score is 2-3&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="-880" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-78" value="&lt;h1&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 33px;&quot;&gt;if score is 4 or more&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="-1390" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-79" value="&lt;h1&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;(great job+ great job image)&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3172.5" y="-1170" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-80" value="&lt;h1&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;(good job+ good job image)&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3172.5" y="-630" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FopRAKARb_g4g3PPFZj7-81" value="&lt;h1&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;(do better + do better image)&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="-100" width="395" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
